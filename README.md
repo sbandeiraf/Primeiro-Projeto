@@ -91,6 +91,14 @@ CONSTRAINT fk_tempo FOREIGN KEY (id_tempo_fk) REFERENCES dw_trabalho02.dim_tempo
 
 ```
 
+### Desenho da Modelagem Relacional
+
+
+
+### Fase 02: Conexão com o banco(Postregre) x Pentaho
+
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/Conex%C3%A3o%20entre%20o%20banco%20e%20pentaho.png" alt="Conexao com banco - pentaho" width="800"/>
+
 
 
 
