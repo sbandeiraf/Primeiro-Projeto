@@ -126,6 +126,12 @@ Obs.: Arquivos em anexo.
 
 ### Fase 04: Popular as tabelas rodando o JOB:
 
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/Populando%20as%20tabelas.png" alt="Populando as Tabelas" width="800"/>
+
+### Fase 05: Conectando o DW no Power BI:
+
+
+
 
 
 
