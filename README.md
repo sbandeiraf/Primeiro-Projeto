@@ -1,4 +1,4 @@
-# Primeiro-Projeto # Projeto Desafio 02 
+# Primeiro-Projeto # Desafio 02 @digitalcollage
 
 # Objetivo 
 Prática do conceito de criação de ETL utilizando ferramenta Pentaho
