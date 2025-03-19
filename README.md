@@ -130,7 +130,13 @@ Obs.: Arquivos em anexo.
 
 ### Fase 05: Conectando o DW no Power BI:
 
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/Conectando%20com%20Power%20BI.png" alt="Conectando com PBI" width="800"/>
 
+### Fase 06: DEASHBOARD:
+
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/DEASHBOARD.png" alt="Conectando com PBI" width="800"/>
+
+### Fase 07: Puplicação do DEASHBOARD:
 
 
 
