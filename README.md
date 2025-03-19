@@ -36,7 +36,7 @@ Abaixo estão as fases detalhadas do projeto.
   10. Publicação e disponibilização do projeto online.
 
 
-## Fase 1: Criação do Banco de Dados
+## Fase 1: Criação do Banco de Dados:
 
 ```sql
 --Criando a dimensão tempo:
@@ -91,14 +91,22 @@ CONSTRAINT fk_tempo FOREIGN KEY (id_tempo_fk) REFERENCES dw_trabalho02.dim_tempo
 
 ```
 
-### Desenho da Modelagem Relacional
+### Desenho da Modelagem Relacional:
 <img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/Desenho%20da%20Modelagem%20Relacional.png" alt="Desenho da Modelagem Relacional" width="800"/>
 
 
-### Fase 02: Conexão com o Banco(Postregre) x Pentaho
+### Fase 02: Conexão com o Banco(Postregre) x Pentaho:
 
 <img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/Conex%C3%A3o%20entre%20o%20banco%20e%20pentaho.png" alt="Conexao com banco - pentaho" width="800"/>
 
+
+### Fase 03: Criação dos ETLs:
+
+  a. ETL_DW_DIM_CLIENTES:
+  b. ETL_DW_DIM_FUNCIONARIOS:
+  c. ETL_DW_DIM_TEMPO:
+  d. ETL_DW_FATO_PEDIDOS_
+  e. JOB
 
 
 
