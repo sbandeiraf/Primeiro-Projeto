@@ -4,7 +4,7 @@
 Praticar o conceito de criação de ETL utilizando a ferramenta Pentaho
 
 # Atividade  
-1. Escolher um problema de negócio com base nos dados contidos na base de dados 'northwind.sql' ou 'dw_northwind'
+1. Escolher um problema de negócio com base nos dados contidos na base de dados 'northwind.sql'
 2. Criar a estrutura do Data Warehouse utilizando scripts em SQL
 3. Criar os scripts de ingestão de dados utilizando o Pentaho (KTRs e Jobs)
 4. Desenvolver um dashboard no Power BI
