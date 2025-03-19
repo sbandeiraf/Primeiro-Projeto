@@ -103,10 +103,31 @@ CONSTRAINT fk_tempo FOREIGN KEY (id_tempo_fk) REFERENCES dw_trabalho02.dim_tempo
 ### Fase 03: Criação dos ETLs:
 
   a. ETL_DW_DIM_CLIENTES:
+  
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/print_etl_dim_cliente.png" alt="ETL_DW_DIM_CLIENTES" width="800"/>
+
   b. ETL_DW_DIM_FUNCIONARIOS:
+  
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/print_etl_dim_funcionario.png" alt="ETL_DW_DIM_FUNCIONARIOS" width="800"/>
+
   c. ETL_DW_DIM_TEMPO:
-  d. ETL_DW_FATO_PEDIDOS_
-  e. JOB
+  
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/print_etl_dim_tempo.png" alt="ETL_DW_DIM_TEMPO" width="800"/>
+
+  d. ETL_DW_FATO_PEDIDOS_:
+  
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/print_etl_dw_fato_pedido.png" alt="ETL_DW_FATO_PEDIDOS_" width="800"/>
+
+  e. JOB:
+  
+<img src="https://github.com/sbandeiraf/Primeiro-Projeto/blob/main/JOB_Desafio02.png" alt="JOB" width="800"/>
+
+Obs.: Arquivos em anexo.
+
+### Fase 04: Popular as tabelas rodando o JOB:
+
+
+
 
 
 
