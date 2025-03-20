@@ -24,8 +24,8 @@ Abaixo estão as fases detalhadas do projeto.
 3. Definir os campos que serão utilizados para a criação das tabelas de dimensões e fato;
 4. Criação do Data Warehouse:
    - Realizar a conexão com o banco de dados 'northwind.sql' para popular o nosso DW no Pentaho;
-   - Criar os ETLs para popular as tabelas;
-   - Criar o JOB para executar os ETLs;
+   - Criar os ktrs para popular as tabelas;
+   - Criar o JOB para executar os ktrs;
 5. Realizar a conexão com o DW no PostgreSQL utilizando o Power BI;
 6. Desenvolver o dashboard no Power BI para visualização de insights;
 7. Publicar e disponibilizar o projeto online.
